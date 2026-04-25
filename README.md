@@ -14,7 +14,7 @@ Me chamo Cristiane Bittencourt, Sou apaixonada por tecnologia, lógica de progra
     title="PowerBi" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/PowerBi/PowerBi-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg"
 />
 <img 
     align="left" 
