@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Cris Bittencourt
 
-**`Desenvolvedora FullStack`**
+**`Analista de Dados`**
 
-Me chamo Cristiane Bittencourt, Sou apaixonada por tecnologia, lógica de programação e análise de dados.
+Me chamo Cristiane Bittencourt, sou apaixonada por tecnologia, lógica de programação e análise de dados.
 
 ---
 
