@@ -2,12 +2,20 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Cristiane Bittencourt, Sou apaixonada por tecnologia e lógica de programação.
+Me chamo Cristiane Bittencourt, Sou apaixonada por tecnologia, lógica de programação e análise de dados.
 
 ---
 
 ### 🤖 Linguagens e Tecnologias
 
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="<i class="devicon-aarch64-plain "></i>" 
+/>
 <img 
     align="left" 
     alt="HTML"
