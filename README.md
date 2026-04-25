@@ -14,7 +14,7 @@ Me chamo Cristiane Bittencourt, Sou apaixonada por tecnologia, lógica de progra
     title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="<i class="devicon-aarch64-plain "></i>" 
+    src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />" 
 />
 <img 
     align="left" 
