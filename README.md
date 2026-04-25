@@ -1,10 +1,5 @@
 # 👩🏻‍💻 Cris Bittencourt
 
-**`Analista de Dados`**
-
-Me chamo Cristiane Bittencourt, sou apaixonada por tecnologia, lógica de programação e análise de dados.
-
----
 
 ### 🤖 Linguagens e Tecnologias
 
