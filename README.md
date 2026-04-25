@@ -17,8 +17,8 @@ Me chamo Cristiane Bittencourt, sou apaixonada por tecnologia, lógica de progra
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
+                   
 <img 
     align="left" 
     alt="HTML"
